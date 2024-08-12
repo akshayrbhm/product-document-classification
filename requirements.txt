@@ -5,3 +5,5 @@ seaborn
 matplotlib
 pymupdf
 streamlit
+contractions
+nltk
