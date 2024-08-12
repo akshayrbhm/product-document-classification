@@ -7,3 +7,6 @@ pymupdf
 streamlit
 contractions
 nltk
+unicodedata
+string
+joblib
